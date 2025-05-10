@@ -11,7 +11,7 @@ O objetivo é mostrar minhas competências como desenvolvedor, destacando projet
 ## 📸 Preview do Projeto
 
 ![Preview do Portfólio](./img/readme-desktop.png)
-![Preview do Portfólio](./img/readme-mobile.jng)
+![Preview do Portfólio](./img/readme-mobile.jpg)
 
 
 ## 🛠️ Tecnologias Utilizadas
