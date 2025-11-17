@@ -43,7 +43,7 @@ O objetivo é mostrar minhas competências como desenvolvedor, destacando projet
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-portifolio.git
+git clone
 ```
 
 2. Abra o `index.html` no navegador.
